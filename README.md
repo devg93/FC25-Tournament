@@ -9,3 +9,19 @@ Features
 🎮 Spin Duel (1v1 Money Matches)
 💬 Chat & Forum for Players
 📊 Ranking & Leaderboard System
+
+
+
+
+
+
+
+
+
+
+Modules
+User Module: Registration, profile, balance management
+Tournament Module: Group stage, knockout, match history
+Matchmaking Module: Spin Duel, challenge system
+Payment Module: Balance deposit, transaction history
+Community Module: Chat, forum discussions
