@@ -1,0 +1,6 @@
+@BootStraper_HostAddress = http://localhost:5149
+
+GET {{BootStraper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
